@@ -10,7 +10,8 @@ Socket Programming Assignment
 3. Run the server by entering the command: python3 server.py [PortNumber]
 - Note Port Number is a number between 1024 and 64000
 
-4.Using the second terminal run the command python3 client.py localhost [PortNumber] [Name] [Type]
+
+4. Using the second terminal run the command python3 client.py localhost [PortNumber] [Name] [Type]
 
 
    
