@@ -10,7 +10,7 @@ Socket Programming Assignment
 
 4. Using the second terminal, run the command python3 client.py localhost [PortNumber] [Name] [Type]
 
-5. Note that Name must have quotation marks around it and is case sensitive, e.g., "Bob"
+5. Note that Name must have quotation marks around it and is case sensitive, e.g: "Bob". Also Note PortNumber is the same as the server's.
 
 6. Note that Type is either **create** or **read**.
    - Where when you call create, the terminal prompts you to enter a name of the receiver along with a message, no quotation marks are needed here.
