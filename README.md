@@ -6,14 +6,14 @@ Socket Programming Assignment
 2. Open 2 terminals and navigate both terminals to this directory that you placeed the files in.
 
 3. Run the server by entering the command: python3 server.py [PortNumber]
-Note Port Number is a number between 1024 and 64000
+- Note Port Number is a number between 1024 and 64000
 
 4.Using the second terminal run the command python3 client.py localhost [PortNumber] [Name] [Type]
 
    
 5. Note that Name must have quotation marks around it and is case sensitive e.g: "Bob"
 
-6. Note that Type is either create or read.
+6. Note that Type is either **create** or **read**.
 - Where when you call create the terminal prompts you to enter a name of the reciever along with a message, no quotation marks are needed here.
 - For a call read, the terminal will read back the messages sent to the name in [Name].
   
